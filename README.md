@@ -2,7 +2,7 @@
 
 ![ChatGPT中文体验版](https://github.com/user-attachments/assets/30cb685f-4b78-4cec-96a1-d2a599122f20)
 
-## 📢 无需翻墙畅享ChatGPT中文体验，全面支持GPT-4o/o1/o3（2025年6月1日最新）
+## 📢 无需翻墙畅享ChatGPT中文体验，全面支持GPT-4o/o1/o3（2025-06-02最新）
 
 本项目专为中国大陆用户打造，提供权威的 **ChatGPT中文体验指南**，整理并推荐国内主流 **ChatGPT镜像站点**及**实用教程**，助力您轻松接入顶级AI聊天模型，满足学习、办公、创作等多元化需求。
 
